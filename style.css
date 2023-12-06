@@ -1,0 +1,80 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    cursor: url(./img/cursor.cur), auto;
+    color: #ff3333; 
+
+
+}
+
+body {
+    font-family: 'Georama', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #2b2626; 
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-family: 'Georama', sans-serif;
+    color: #ff3333;
+}
+
+a {
+    color: #ff3333;
+}
+
+span {
+    font-weight: bold;
+}
+
+.row {
+    padding-top: 60px;
+}
+
+
+.pic {
+    width: 15vw;
+    margin-right: 1rem;
+}
+
+
+
+.section-heading {
+    font-family: 'Georama', sans-serif;
+    color: #ff3333;
+}
+
+.card {
+    background-color: #3f3a3a; 
+    border-radius: 1rem;
+}
+
+.card-title {
+    color: rgba(231, 242, 252, 0.849);
+}
+
+.link:hover {
+     color: #f86262;   
+     text-decoration:none
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.carousel-indicators .active {
+    background-color: #ff3333;
+}
+
+.carousel-img {
+    width: 100%;
+    height: auto;
+    
+}

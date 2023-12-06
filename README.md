@@ -1,2 +1,2 @@
-# portfolio
-Design de um portfolio
+# Portfolio
+Trabalho de Desenvolvimento Web (Portfólio)
